@@ -5,6 +5,7 @@ a = -96
 b = 6.22 #b is a float
 
 c = "Aniket" # c is a String 
+c = "payal"
 
 # d = false # d is a boolean
 
